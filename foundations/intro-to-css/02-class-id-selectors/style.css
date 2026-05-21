@@ -4,9 +4,21 @@
     font-family: Verdana, DejaVu Sans, sans-serif;
 }
 
+#id1 {
+    color: blue;
+    font-size: 36px;
+}
+
 .class2 {
     background-color: #f7a1a1;
     font-family: Verdana, DejaVu Sans, sans-serif;
+    font-size: 24px;
+}
+
+#id2 {
+    background-color: #84fa69;
+    font-size: 24px;
+    font-weight: bold;
 }
 
 .class3 {
